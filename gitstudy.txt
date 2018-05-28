@@ -1,4 +1,4 @@
 I'am studying git.
 Git good one.
 Creating a new branch is quick AND simple.
-分支管理策略
+分支管理策略 和 修复了bug101
