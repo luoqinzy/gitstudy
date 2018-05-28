@@ -1,2 +1,3 @@
 I'am studying git.
 Git good one.
+Creating a new branch is quick.
